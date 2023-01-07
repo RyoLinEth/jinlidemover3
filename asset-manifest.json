@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc40f1bd.css",
+    "main.js": "/static/js/main.2fd5242e.js",
+    "static/media/NewYear.png": "/static/media/NewYear.448d268362ef11b8d81e.png",
+    "static/media/backgroundTimer.png": "/static/media/backgroundTimer.99e583da3ffaff7cfcea.png",
+    "static/media/tuYuanYuan3.png": "/static/media/tuYuanYuan3.817ce4494a74f63f4113.png",
+    "static/media/TuYuanYuanIDO2.png": "/static/media/TuYuanYuanIDO2.f773d4686c6220ec5426.png",
+    "index.html": "/index.html",
+    "main.fc40f1bd.css.map": "/static/css/main.fc40f1bd.css.map",
+    "main.2fd5242e.js.map": "/static/js/main.2fd5242e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc40f1bd.css",
+    "static/js/main.2fd5242e.js"
+  ]
+}
